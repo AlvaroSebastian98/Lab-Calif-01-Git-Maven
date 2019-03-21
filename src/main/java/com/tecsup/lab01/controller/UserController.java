@@ -6,7 +6,6 @@ public class UserController extends User{
 	public String getNombreCompleto() {
 		return nombres+" "+apellidoP+" "+apellidoM+"\n"+"Edad: "+edad;
 	}	
-	
-	
+		
 	
 }
